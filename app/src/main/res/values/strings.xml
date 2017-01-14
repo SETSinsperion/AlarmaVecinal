@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alarma</string>
+    <string name="label_activity_addgroup">Añadir Grupo</string>
+    <string name="label_activity_groups">Grupos</string>
+    <string name="label_activity_reportbaduse">Reportar mal uso</string>
+    <string name="et_nombre_grupo">Nombre del Grupo</string>
+    <string name="et_descripcion">Descripción (opcional)</string>
+    <string name="bt_agregar">AGREGAR</string>
+    <string name="bt_reportar">REPORTAR</string>
+    <string name="sp_a_la_persona">A LA PERSONA</string>
+    <string name="sp_grupo">DEL GRUPO</string>
+    <string name="tv_descripcion">DESCRIPCIÓN</string>
+    <string name="tv_fecha_creacion">FECHA DE CREACIÓN</string>
+    <string name="tv_eula_title">Términos y Condiciones</string>
+    <string name="tv_eula_checkbox">Sí, lo entiendo</string>
+    <string name="tv_OK">ACEPTAR</string>
+    <string name="tv_eula_content">Esta apicación NO ES UN JUEGO, los datos y las coordenadas en su posición real serán investigados por las autoridades. ¿Entiende lo anteriormente dicho para el uso de esta app?</string>
+</resources>
